@@ -6,11 +6,11 @@
 
 <div style="display: flex; gap: 1rem; align-items: center; justify-content: space-between; margin: 0 1rem;">
   <a href="https://github.com/Teemitayoo/Teemitayoo" width="250px">
-    <img src="https://github-readme-stats.vercel.app/api?username=Teemitayoo&count_private=true&show_icons=true&theme=chartreuse-dark&from=2023-01-01&to=2023-12-31">
+    <img src="https://github-readme-stats.vercel.app/api?username=Teemitayoo&count_private=true&show_icons=true&theme=chartreuse-dark">
   </a>
   
   <a href="https://github.com/Teemitayoo/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Teemitayoo&theme=chartreuse-dark&custom_title=Top%20Languages%20in%202023" height="197px">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Teemitayoo&theme=chartreuse-dark" height="197px">
   </a>
 </div>
 <!---
