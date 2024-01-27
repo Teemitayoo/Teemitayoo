@@ -1,16 +1,20 @@
-### Hi there 👋
+-  Hi, I’m Temitayo Akinsanya
+-  I’m a Software Engineer
+-  email: temitayodev1@gmail.com
+-  instagram: teemitayoo
 
-<!--
-**Teemitayoo/Teemitayoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<div style="display: flex; gap: 1rem; align-items: center; justify-content: space-between; margin: 0 1rem;">
+  <a href="https://github.com/Teemitayoo/Teemitayoo" width="250px">
+    <img src="https://github-readme-stats.vercel.app/api?username=Teemitayoo&count_private=true&show_icons=true&theme=chartreuse-dark">
+  </a>
+  
+  <a href="https://github.com/Teemitayoo/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Teemitayoo&theme=chartreuse-dark" height="197px">
+  </a>
+</div>
+<!---
+Teemitayoo/Teemitayoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
