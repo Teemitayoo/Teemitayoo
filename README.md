@@ -10,7 +10,7 @@
   </a>
   
   <a href="https://github.com/Teemitayoo/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Teemitayoo&theme=chartreuse-dark" height="197px">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Teemitayoo&theme=chartreuse-dark&custom_title=Top%20Languages%20in%202023" height="197px">
   </a>
 </div>
 <!---
