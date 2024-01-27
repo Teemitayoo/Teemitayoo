@@ -6,7 +6,7 @@
 
 <div style="display: flex; gap: 1rem; align-items: center; justify-content: space-between; margin: 0 1rem;">
   <a href="https://github.com/Teemitayoo/Teemitayoo" width="250px">
-    <img src="https://github-readme-stats.vercel.app/api?username=Teemitayoo&count_private=true&show_icons=true&theme=chartreuse-dark">
+    <img src="https://github-readme-stats.vercel.app/api?username=Teemitayoo&count_private=true&show_icons=true&theme=chartreuse-dark&custom_title=Contributions%20in%202023">
   </a>
   
   <a href="https://github.com/Teemitayoo/github-readme-stats">
