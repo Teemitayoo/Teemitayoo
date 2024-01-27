@@ -12,10 +12,6 @@
   <a href="https://github.com/Teemitayoo/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Teemitayoo&theme=chartreuse-dark" height="197px">
   </a>
-
-  <a href="https://github.com/Teemitayoo/Teemitayoo">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Teemitayoo&range=last_year&layout=compact&theme=chartreuse-dark" height="197px">
-  </a>
 </div>
 
 
