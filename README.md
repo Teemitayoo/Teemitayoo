@@ -1,6 +1,6 @@
 -  Hi, I’m Temitayo Akinsanya
 -  I’m a Software Engineer
--  email: temitayodev1@gmail.com=tru
+-  email: temitayodev1@gmail.com
 -  instagram: teemitayoo
 
 
